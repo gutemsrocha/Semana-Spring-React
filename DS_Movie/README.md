@@ -2,12 +2,16 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/neliocursos/exemplo-readme/blob/main/LICENSE) 
 
 ## Layout mobile
-![Mobile 01](https://github.com/gutemsrocha/assets/raw/main/logicaprogramacao/dsmovie03.png) ![Mobile 2](https://github.com/gutemsrocha/assets/raw/main/logicaprogramacao/dsmovie04.png)
+![Mobile 01](https://github.com/gutemsrocha/assets/blob/main/dsmovie03.png) ![Mobile 2](https://github.com/gutemsrocha/assets/blob/main/dsmovie04.png)
+
+
+
+
 
 ## Layout web
-![Web 1](https://github.com/gutemsrocha/assets/raw/main/logicaprogramacao/dsmovie01.png)
+![Web 1](https://github.com/gutemsrocha/assets/blob/main/dsmovie01.png)
 
-![Web 2](https://github.com/gutemsrocha/assets/raw/main/logicaprogramacao/dsmovie02.png)
+![Web 2](https://github.com/gutemsrocha/assets/blob/main/dsmovie02.png)
 
 
 # Tecnologias utilizadas
