@@ -36,7 +36,4 @@ public class SaleController {
 		smsService.sendSms(id);
 	}
 	
-	
-	
-
 }
