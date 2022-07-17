@@ -9,7 +9,7 @@ type Props = {
 }
 
 function handleClick(id : number) {
-    axios(`${BASE_URL}sales/${id}/notification`)
+    axios(`${BASE_URL}/sales/${id}/notification`)
         .then(response => {
             console.log("SUCESSO");
         })
