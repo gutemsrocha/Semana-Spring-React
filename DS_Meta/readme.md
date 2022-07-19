@@ -45,4 +45,11 @@ nos limitando exclusivamente a enviar SMS para um único número indicado no cad
 [Link para acessar a API implementada](https://gutemsrocha-dsmeta.netlify.app/)
 
 
+## 📚 Mais informações do curso
+
+A Semana Spring React da Escola de Programação DEVSUPERIOR, visa no período de uma semana possibilitar a todos os interessados (profissionais, estudantes ou iniciantes) a ingressarem em uma experiência completa, porém condensada e cuidadosamente preparada na área da programação e desenvolvimento. 
+
+
+
+
 
