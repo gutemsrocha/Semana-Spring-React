@@ -42,7 +42,7 @@ nos limitando exclusivamente a enviar SMS para um único número indicado no cad
   
   ## 📁 Acesso ao projeto
 
-[Link para acessar a API implementada](https://gutemsrocha-dsmeta.netlify.app/))
+[Link para acessar a API implementada](https://gutemsrocha-dsmeta.netlify.app/)
 
 
 
